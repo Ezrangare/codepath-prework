@@ -18,7 +18,6 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/a/rAztJFw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<iframe src="https://giphy.com/embed/V5l5ZucxUc7kNTaXWK" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gaming-link-zelda-tears-of-the-kingdom-V5l5ZucxUc7kNTaXWK">via GIPHY</a></p>
 
 <!-- Replace this with whatever GIF tool you used! -->
 
